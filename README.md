@@ -1,2 +1,2 @@
 # incerc_norocul
-ceva
+Ripeanu Constantin-Adrian 341C5
